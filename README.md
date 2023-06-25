@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python full stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **Next.JS,Mogodb**
+
 
 - 📫 How to reach me **ajaysolanki0568@gmail.com**
 
